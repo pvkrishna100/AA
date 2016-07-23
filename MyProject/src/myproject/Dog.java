@@ -1,6 +1,7 @@
 package myproject;
 
 public class Dog implements IntAnimal {
+    //Git Test
     String name = "Rex";
     int age;
 
